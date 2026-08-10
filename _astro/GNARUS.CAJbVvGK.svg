@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1035.282"
+   height="115.761"
+   viewBox="0 0 1035.282 115.761"
+   sodipodi:docname="GNARUS.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2">GNARUS</title>
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.45448809"
+     inkscape:cx="133.1168"
+     inkscape:cy="476.36012"
+     inkscape:window-width="1882"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <g
+       id="g2">
+      <path
+         style="fill:#3590bd;fill-opacity:0.99215686;stroke:none;stroke-width:0.939436;stroke-dasharray:none;stroke-opacity:1"
+         d="m 65.967794,46.944258 v 21.75273 h 31.17896 c 0,4.511686 0.0668,9.023872 0,13.535057 -0.0714,4.824585 -1.290615,9.047871 -9.063651,9.063671 -17.603604,0.036 -35.236587,1.015797 -52.810881,0 C 29.347561,90.953317 24.577106,86.362932 24.577106,80.60065 V 36.067893 c 0,-6.715679 5.905331,-12.235861 12.235931,-12.235861 H 120.10801 V 11.65647 C 115.86095,6.5943865 109.53708,3.6090961 102.40282,1.434303 c -24.713284,0 -49.491605,-1.79199429 -74.139836,0 C 11.423308,2.6586991 2.6464957,14.328862 1.5200293,28.177318 c -1.68290459,20.689134 -1.08619649,41.543467 0,62.272501 0.7167378,13.678261 10.9452147,22.702831 23.6436147,23.643521 24.250183,1.7967 48.672715,1.3845 72.949897,0 13.381349,-0.76309 21.418999,-10.40526 22.577339,-22.577224 1.39226,-14.630154 0,-29.392307 0,-44.08846 -18.24103,-0.161199 -36.482064,-0.322299 -54.723086,-0.483398 z"
+         id="path4"
+         sodipodi:nodetypes="cccsssssscccsssssscc" />
+      <path
+         style="fill:#3590bd;fill-opacity:0.99215686;stroke:none;stroke-width:0.939435;stroke-dasharray:none;stroke-opacity:1"
+         d="M 185.60801,1.5051028 V 113.65275 h 22.35701 V 36.309592 l 77.27611,77.276058 h 21.97715 V 0.85750484 H 283.88962 V 78.727456 L 206.28719,1.125004 Z"
+         id="path5" />
+      <path
+         style="fill:#3590bd;fill-opacity:0.99215686;stroke:none;stroke-width:0.939436;stroke-dasharray:none;stroke-opacity:1"
+         d="M 366.469,113.82634 430.9956,0.78720506 h 16.8246 L 512.94103,113.57985 h -26.8379 l -47.5894,-82.427242 -47.65731,82.544932 z"
+         id="path6"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         id="path18"
+         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#3590bd;fill-opacity:0.99215686;stroke-width:1.2428;enable-background:accumulate;stop-color:#000000;stroke:none"
+         d="M 571.99551,0.21730688 V 113.95494 h 24.18111 V 79.430954 h 31.46796 c 11.68943,11.689463 23.37827,23.380726 35.06768,35.070086 l 0.13837,0.136 h 31.74954 l -0.80346,-0.8011 c -10.85087,-10.85086 -25.36523,-24.217418 -36.31776,-35.130783 7.37046,-1.009097 14.70635,-3.31309 20.37988,-7.277077 5.90708,-4.127287 10.0272,-10.004668 10.43512,-17.736544 0.49483,-9.37917 1.22991,-18.901239 -0.002,-28.285709 -1.74883,-13.318858 -11.17967,-25.04312058 -25.24183,-25.18852012 -29.90788,-0.30929901 -60.39552,0 -90.58568,0 z M 596.51887,24.743129 c 16.39751,0.053 32.80125,0.296399 49.20935,0.145599 5.89043,-0.055 10.28908,0.655498 13.2581,2.301193 2.969,1.645595 4.57011,4.182786 4.95904,8.065874 0.232,2.316293 -0.0213,4.707685 -0.002,7.136477 0.0374,4.798685 -1.31973,8.212974 -3.73567,10.488467 -2.41594,2.275593 -5.94098,3.436689 -10.33559,3.563389 -17.76373,0.511898 -35.55498,0.011 -53.35281,0 z" />
+      <path
+         style="fill:#3590bd;fill-opacity:0.99215686;stroke:none;stroke-width:0.939436;stroke-dasharray:none;stroke-opacity:1"
+         d="m 754.30807,1.3702032 c 0,29.1680068 0.0364,58.4923138 0.1208,87.5038208 0.036,12.382456 11.1689,22.517026 24.8314,23.985526 19.25842,2.06979 38.73869,0.95409 58.10801,0.96679 20.39617,0.014 32.82433,-11.10096 33.15573,-28.712204 0.5124,-27.223213 0.1709,-55.914722 0.1709,-83.8293325 l -23.75591,0.085 c 0,25.5219185 0.68115,51.0529365 0,76.5657555 -0.18888,7.076277 -4.22696,12.892759 -13.33063,13.330757 -14.22573,0.684298 -28.54668,1.330996 -42.7265,0 -7.55856,-0.709497 -13.06409,-6.06018 -13.33065,-13.330757 -0.93507,-25.504719 0,-51.043837 0,-76.5657555 z"
+         id="path9"
+         sodipodi:nodetypes="cssssccsssscc" />
+      <path
+         style="fill:#3590bd;fill-opacity:0.99215686;stroke:none;stroke-width:0.939436;stroke-dasharray:none;stroke-opacity:1"
+         d="m 935.83678,91.416616 v 15.468654 c 0,4.12618 3.43329,6.76748 6.76758,6.76748 h 71.30064 c 12.6365,0 20.9069,-10.42407 20.9069,-20.906838 V 67.005194 c 0,-12.63386 -10.0969,-20.000536 -20.0005,-20.000536 h -49.00411 c -6.12838,0 -9.47237,-4.594486 -9.45647,-9.45637 0.011,-2.185293 -0.2778,-4.507586 0.48349,-6.556079 1.958,-5.268583 5.95059,-6.712379 11.14267,-6.712379 h 64.29712 V 1.0217043 c -23.767,0 -47.56627,-1.24129603 -71.3008,0 -15.11455,0.7904975 -25.49492,9.4010697 -26.46581,26.4659157 -0.3821,6.716478 -0.6139,13.482557 0,20.181736 0.91069,9.937868 7.28887,19.421638 20.60473,20.604734 15.13145,1.344295 30.9171,0.725097 46.40588,0.725097 8.9439,-0.088 11.7168,-0.324798 11.6798,6.035681 l 0.09,7.922275 c 0.094,8.119074 -4.1188,8.081874 -8.2719,8.272074 -23.03607,1.054096 -46.11989,0.124899 -69.17972,0.187399 z"
+         id="path10"
+         sodipodi:nodetypes="cssssssssssccssssccssc" />
+    </g>
+  </g>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:title>GNARUS</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>William C. Canin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
