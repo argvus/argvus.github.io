@@ -45,4 +45,5 @@ if ! grep -Fxq "Include = $REPO_CONF" "$PACMAN_CONF"; then
         | $SUDO tee -a "$PACMAN_CONF" >/dev/null
 fi
 
-echo "==> ARGVUS repository configured successfully."
+echo "==> ARGVUS repositories configured successfully."
+echo "    Enabled: argvus (main) and argvus-extras."
